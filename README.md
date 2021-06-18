@@ -2,8 +2,8 @@
 Lazywork just for lazy people!</br>
 https://github.com/psychoxploit/LazyWork/</br>
 <br/>
-Trial Key:NAQPU-CQQZZ-JKIOQ-ZAVFA</br>
-Expired Date:2021-06-19</br>
+Trial Key:HGZQN-PLRSE-SFUEW-AKSLR</br>
+Expired Date:2021-06-20</br>
 </br>
 I made this tool by wasting time and thought.</br>
 You can provide requests or suggestions.</br>
