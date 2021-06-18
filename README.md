@@ -9,7 +9,7 @@ You can provide requests or suggestions.</br>
 If you like this tool, you can buy a new private key.</br>
 </br>
 tool prices can change at any time:</br>
-        - $3/day key</br>
+        - $1/day key</br>
         - $5/week key</br>
         - $10/month key</br>
         - $100/year key</br>
