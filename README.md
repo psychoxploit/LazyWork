@@ -1,8 +1,8 @@
 # LazyWork V.0.1
-Lazywork just for lazy people!
-https://github.com/psychoxploit/LazyWork/
+Lazywork just for lazy people!\n
+https://github.com/psychoxploit/LazyWork/\n
 
-I made this tool by wasting time and thought.
+I made this tool by wasting time and thought.\n
 this tool will be updated from time to time, that's if I'm not busy.
 You can provide requests or suggestions.
 If you like this tool, you can buy a new private key.
