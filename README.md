@@ -1,8 +1,9 @@
-# LazyWork V.0.1
+# LazyWork V.1.2
 Lazywork just for lazy people!</br>
 https://github.com/psychoxploit/LazyWork/</br>
 <br/>
-sorry, there is a deep fix with this tool.</br>
+Trial Key: KBGWR-XLTKA-UZWMY-OBBIP
+Expired date: 2021-06-22
 </br>
 I made this tool by wasting time and thought.</br>
 You can provide requests or suggestions.</br>
@@ -18,10 +19,12 @@ this tool uses python 3.9</br>
 don't forget to install it.</br>
 if any problem please contact me.</br>
 
-# Version 0.1
-- Unlimited WebScrapper ( 5 domain )
+# Version 1.2 ( Latest Version )
+what's new?
+- Mass Grab Domain From Recently Analyzed Web. ( fixed )
+- Mass Domain To ip ( new )
 - Mass Reverse Ip
-- Mass CMS Checker:
+- Mass CMS Checker (fixed ):
         - wordpress
         - joomla
         - drupal
