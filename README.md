@@ -2,7 +2,7 @@
 Lazywork just for lazy people!</br>
 https://github.com/psychoxploit/LazyWork/</br>
 <br/>
-Trial Key: KBGWR-XLTKA-UZWMY-OBBIP
+Trial Key: KBGWR-XLTKA-UZWMY-OBBIP </br>
 Expired date: 2021-06-22
 </br>
 I made this tool by wasting time and thought.</br>
